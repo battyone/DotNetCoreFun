@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26720.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarServiceMvc", "CarServiceMvc\CarServiceMvc.csproj", "{17F277C2-7310-4C49-9A85-E2AE6E331E82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarsServiceMvc.Tests", "CarsServiceMvc.Tests\CarsServiceMvc.Tests.csproj", "{3B59E752-F5E0-4AF5-8299-D456F11177CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17F277C2-7310-4C49-9A85-E2AE6E331E82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17F277C2-7310-4C49-9A85-E2AE6E331E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17F277C2-7310-4C49-9A85-E2AE6E331E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17F277C2-7310-4C49-9A85-E2AE6E331E82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B59E752-F5E0-4AF5-8299-D456F11177CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B59E752-F5E0-4AF5-8299-D456F11177CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B59E752-F5E0-4AF5-8299-D456F11177CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B59E752-F5E0-4AF5-8299-D456F11177CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {259D79B2-387A-4E71-B57D-E95C6EE5A111}
+	EndGlobalSection
+EndGlobal
